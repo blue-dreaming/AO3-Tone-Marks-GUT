@@ -27,6 +27,7 @@
 // @resource     jwqs resources/jwqs.txt
 // @resource     erha resources/erha.txt
 // @resource     parallelworld resources/parallelworld.txt
+// @resource     grand_unified_theory resources/grand_unified_theory.txt
 // @resource     IMPORTED_CSS https://fonts.googleapis.com/icon?family=Material+Icons
 // @resource     audio_css audio.css
 // @resource     glossary_css glossary.css
