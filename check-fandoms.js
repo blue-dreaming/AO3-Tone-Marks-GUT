@@ -23,7 +23,9 @@ async function updateRulesForFandom(fandomNames, fandomId, fandomTags, rules) {
  * @returns {HTMLElement[]}
  */
 function getFandomTags(element) {
-  return Array.from(element.querySelectorAll('.fandoms .tag,.fandom .tag, span.series span.position a'));
+  const fandomTags = Array.from(element.querySelectorAll('.fandoms .tag,.fandom .tag, span.series span.position a'));
+console.log({ fandomTags });
+return fandomTags;
 }
 
 /**
@@ -74,6 +76,8 @@ async function getReplacementRules(workFandoms) {
 
   // Add non-fandom-specific rules at the end.
   await updateRulesForFandom('', 'generic', workFandoms, rules);
+
+  console.log('message')
 
   return splitReplacements(rules.asString);
 }
