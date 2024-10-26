@@ -69,6 +69,8 @@ async function getReplacementRules(workFandoms) {
       '2ha|erha|Husky and His White Cat Shizun', 'erha', workFandoms, rules);
   await updateRulesForFandom(
     'Parallel World|West Out Of Yumen','parallelworld', workFandoms, rules);
+  await updateRulesForFandom(
+    'Grand Unified Theory of Shěn Qīngqiū','grand_unified_theory', workFandoms, rules); 
 
   // Add non-fandom-specific rules at the end.
   await updateRulesForFandom('', 'generic', workFandoms, rules);
