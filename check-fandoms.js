@@ -23,7 +23,7 @@ async function updateRulesForFandom(fandomNames, fandomId, fandomTags, rules) {
  * @returns {HTMLElement[]}
  */
 function getFandomTags(element) {
-  return Array.from(element.querySelectorAll('.fandoms .tag,.fandom .tag'));
+  return Array.from(element.querySelectorAll('.fandoms .tag,.fandom .tag, span.series span.position a'));
 }
 
 /**
