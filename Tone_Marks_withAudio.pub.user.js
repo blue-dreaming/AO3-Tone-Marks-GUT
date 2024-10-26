@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Tone Marks with Audio
+// @name         Tone Marks with Audio GUT
 // @namespace    http://tampermonkey.net/
 // @version      4.5.8
 // clang-format off
