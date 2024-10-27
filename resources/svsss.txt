@@ -51,6 +51,7 @@ Shang shidi|Shàng-shīdì
 ##Qi Qingqi
 qi qing qi|Qí Qīngqī
 qqq|Qí Qīngqī
+qi shijie|Qí-shījiě
 ##Liu Mingyan
 liu ming yan|Liǔ Míngyān|https://archive.org/download/svsss-pronunciation-guide/Liu%20Mingyan.mp3
 lmy|Liǔ Míngyān|https://archive.org/download/svsss-pronunciation-guide/Liu%20Mingyan.mp3
@@ -62,6 +63,7 @@ mu qing fang|Mù Qīngfāng|https://archive.org/download/svsss-pronunciation-gui
 mqf|Mù Qīngfāng|https://archive.org/download/svsss-pronunciation-guide/Mu%20Qingfang.mp3
 qing fang|Qīngfāng
 mu shidi|Mù-shīdì
+mu shixiong|Mu-Shīxiōng
 ##Yang Yixuan
 yang yi xuan|Yáng Yīxuán
 yyx|Yáng Yīxuán
