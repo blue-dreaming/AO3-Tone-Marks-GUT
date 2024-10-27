@@ -114,13 +114,16 @@ bai lu|Bái Lù
 ##Other sects
 zhao hua|Zhāo Huá
 tian yi|Tiān yī
+##Qiu household and family
+qiu jian luo|Qiū Jiǎnluó
+young master qiu|Young Master Qiū
+qiu hai tang|Qiū Hǎitáng
+qiu household|Qiū household
 ##Other places
 jin lan|Jīn Lán
 hua yue|Huā Yuè
 jue di|Jué Dì
 #Misc People
-qiu jian luo|Qiū Jiǎnluó
-qiu hai tang|Qiū Hǎitáng
 wu yan zi|Wú Yànzǐ
 #Misc Other
 chun shan|Chūnshān
