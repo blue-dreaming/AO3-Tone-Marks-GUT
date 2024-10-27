@@ -3,6 +3,8 @@
 shen qing qiu|Shěn Qīngqiū|https://archive.org/download/svsss-pronunciation-guide/Shen%20Qingqiu.mp3
 sqq|Shěn Qīngqiū|https://archive.org/download/svsss-pronunciation-guide/Shen%20Qingqiu.mp3
 qing qiu|Qīngqiū
+qingqiu shidi|Qīngqiū-shīdì
+shen shidi|Shěn-shīdì
 shen yuan|Shěn Yuán|https://archive.org/download/svsss-pronunciation-guide/Shen%20Yuan.mp3
 shen jiu|Shěn Jiǔ|https://archive.org/download/svsss-pronunciation-guide/Shen%20Jiu.mp3
 shen|Shěn
@@ -18,6 +20,7 @@ ah luo|Ā-Luò
 bing he|Bīnghé
 bing ge|Bīnggē
 bing mei|Bīngmèi
+luo shidi|Luò-shīdì
 xin mo|Xīn Mó
 zheng yang|Zhèng Yáng
 ##Ning Yingying
@@ -31,17 +34,20 @@ mf|Míng Fān|https://archive.org/download/svsss-pronunciation-guide/Ming%20Fan.
 liu qing ge|Liǔ Qīnggē|https://archive.org/download/svsss-pronunciation-guide/Liu%20Qingge.mp3
 lqg|Liǔ Qīnggē|https://archive.org/download/svsss-pronunciation-guide/Liu%20Qingge.mp3
 qing ge|Qīnggē
+liu shidi|Liǔ-shīdì
 cheng luan|Chéng Luán
 ##Yue Qingyuan
 yue qing yuan|Yuè Qīngyuán|https://archive.org/download/svsss-pronunciation-guide/Yue%20Qingyuan.mp3
 yqy|Yuè Qīngyuán|https://archive.org/download/svsss-pronunciation-guide/Yue%20Qingyuan.mp3
 yue qi|Yuè Qī
 qi ge|Qī-gē
+yue shixiong|Yuè-shīxiōng
 xuan su|Xuán Sù
 ##Shang Qinghua
 shang qinghua|Shàng Qīnghuá|https://archive.org/download/svsss-pronunciation-guide/Shang%20Qinghua.mp3
 qing hua|Qīnghuá
 sqh|Shàng Qīnghuá|https://archive.org/download/svsss-pronunciation-guide/Shang%20Qinghua.mp3
+Shang shidi|Shàng-shīdì
 ##Qi Qingqi
 qi qing qi|Qí Qīngqī
 qqq|Qí Qīngqī
@@ -55,11 +61,13 @@ ming yan|Míngyān
 mu qing fang|Mù Qīngfāng|https://archive.org/download/svsss-pronunciation-guide/Mu%20Qingfang.mp3
 mqf|Mù Qīngfāng|https://archive.org/download/svsss-pronunciation-guide/Mu%20Qingfang.mp3
 qing fang|Qīngfāng
+mu shidi|Mù-shīdì
 ##Yang Yixuan
 yang yi xuan|Yáng Yīxuán
 yyx|Yáng Yīxuán
 ##Wei Qingwei
 wei qing wei|Wèi Qīngwēi
+wei shidi|Wèi-shīdì
 #Huan Hua Palace
 ##Old Palace Master
 lao gong zhu|Lǎo Gōngzhǔ
@@ -107,14 +115,13 @@ bai zhan|Bǎi Zhàn
 zui xian|Zuì Xiān
 wan jian|Wàn Jiàn
 ku xing|Kǔ Xíng
-
 ##Huan Hua
 huan hua|Huàn Huā
 bai lu|Bái Lù
 ##Other sects
 zhao hua|Zhāo Huá
 tian yi|Tiān yī
-##Qiu household and family
+##Qiu (秋) household and family
 qiu jian luo|Qiū Jiǎnluó
 young master qiu|Young Master Qiū
 qiu hai tang|Qiū Hǎitáng
@@ -129,3 +136,4 @@ wu yan zi|Wú Yànzǐ
 chun shan|Chūnshān
 da wang|Dàwáng
 mai gu|Mái Gǔ
+hong jing|Hóng Jìng
