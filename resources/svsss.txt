@@ -101,6 +101,8 @@ lgj|Lǐnguāng-jūn
 ##Sha Hualing
 sha hua ling|Shā Huālíng|https://archive.org/download/svsss-pronunciation-guide/Sha%20Hualing.mp3
 shl|Shā Huālíng|https://archive.org/download/svsss-pronunciation-guide/Sha%20Hualing.mp3
+##Sha Hualing's dad - Jiuzhong-Jun 九重君 Jiǔchóng Jūn
+jiuzhong jun|Jiǔchóng Jūn
 #Meng Mo
 Meng Mo|Mèng Mó
 ##Madam Meiyin
