@@ -21,8 +21,7 @@ xu qingli|Xú Qīnglì
 
 #peak lords - the 'An' generation - 安 Ān an meaning peace, quiet
 ##Qiong Ding Peak- Yan Anming. Head disciple Yue Qingyuan
-##Qing Jing Peak - Shen Anwei 沈安巍. Head disciple Shen Qingqiu
-shen anwei|Shěn'ānwēi
+##Qing Jing Peak - Shen Anwei 沈安巍. Head disciple Shen Qingqiu - replacement is in guardian section
 ##Wan Jian Peak - Qian Anquan. Head disciple Wei Qingwei
 ##An Ding Peak - Li Anshan. Head disciple Shang Qinghua
 ##Xian Shu Peak - Xiu Anran. Head disciple Qi Qingqi
@@ -79,4 +78,22 @@ zheng jun|Zhèng Jūn
 shi kuan|Shī Kuān
 ##Zhang Rongshi Zhāng Róngshí 张荣时
 zhang rongshi|Zhāng Róngshí
+
 #OCs - no reference
+
+#Guardian - borrowed
+## Zhao Yunlan (赵云澜 / 趙云瀾, Zhào Yúnlán)
+Zhao Yun Lan|Zhào Yúnlán|https://archive.org/download/guardian-pronunciation-guide/Zhao%20Yunlan.mp3
+Master Zhao|Master Zhào
+## Shen Wei 沈巍 Shěn Wēi - here with the peak lord prefix Shen Anwei 沈安巍
+Shen Anwei|Shěn Ānwēi
+## Guo Ying 郭英 Guō Yīng
+Guo Ying|Guō Yīng
+## Guo Changcheng 郭长城 Guō Chángchéng
+Guo Chang Cheng|Guō Chángchéng|https://archive.org/download/guardian-pronunciation-guide/Guo%20Changcheng.mp3
+## Zhu Hong 祝红 Zhù hóng
+Zhu Hong|Zhù Hóng|https://archive.org/download/guardian-pronunciation-guide/Zhu%20Hong.mp3
+## Da Qing 大庆 Dàqìng
+Da Qing|Dà Qìng|https://archive.org/download/guardian-pronunciation-guide/Da%20Qing.mp3
+## Chu Shuzhi 楚恕之 Chǔ shù zhī
+Chu Shu Zhi|Chǔ Shùzhī|https://archive.org/download/guardian-pronunciation-guide/Chu%20Shuzhi.mp3
