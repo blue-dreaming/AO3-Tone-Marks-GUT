@@ -4,6 +4,9 @@ This fork is an effort to add support for checking the series field, and intende
 ## install this fork
 Make sure you have the requisite add-on installed (see the installation section below). Then click <a href="https://github.com/blue-dreaming/AO3-Tone-Marks-GUT/raw/main/Tone_Marks_withAudio.pub.user.js"> here to install the pinyin replacement with audio guide version</a>. Make sure you are only running one of these scripts at a time.
 
+## contributing
+For svsss-canon things, you can either follow the instructions for the main script (see below, the contributions section), or add it to the Google spreadsheet linked in the mdzs podfic discord server. For this-story-specific stuff, please add it to the project spreadsheet or ask in the project channel.
+
 ## possible issues
 If the name of a fandom on the list is present in the series name, it might cause an issue? - update: seems like it doesn't?
 
