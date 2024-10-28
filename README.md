@@ -2,12 +2,13 @@
 This fork is an effort to add support for checking the series field, and intended to expand the script for use when podficcing <a href="https://archiveofourown.org/series/1636108">The Grand Unified Theory of Shěn Qīngqiū</a>.
 
 ## install this fork
-Make sure you have the requisite add-on installed. Then click <a href="https://github.com/blue-dreaming/AO3-Tone-Marks-GUT/raw/main/Tone_Marks_withAudio.pub.user.js"> here to install the pinyin replacement with audio guide version</a>. Make sure you are only running one of these scripts at a time.
+Make sure you have the requisite add-on installed (see the installation section below). Then click <a href="https://github.com/blue-dreaming/AO3-Tone-Marks-GUT/raw/main/Tone_Marks_withAudio.pub.user.js"> here to install the pinyin replacement with audio guide version</a>. Make sure you are only running one of these scripts at a time.
 
 ## possible issues
-If the name of a fandom on the list is present in the series name, it might cause an issue?
+If the name of a fandom on the list is present in the series name, it might cause an issue? - update: seems like it doesn't?
 
 <hr>
+(from the main script:)
 
 # AO3-Tone-Marks
 This is based on GodofLaundryBaskets <a href="https://godoflaundrybaskets.dreamwidth.org/3315.html">Google Docs Tone Mark Script.</a> It will display the tone marks over the supported chinese names, and if the audio is available allow you to click on that name and listen to the audio guide for that name recorded by <a href="https://lunatique.dreamwidth.org/221218.html">lunatique</a> or <a href="https://archiveofourown.org/users/nonplussed/profile">nonplussed</a> directly on the AO3 page.
