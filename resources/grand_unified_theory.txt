@@ -1,4 +1,5 @@
 ##some references are from chapter notes and others from faq work https://archiveofourown.org/works/22756495
+##audio files are courtesty of nonplussed
 
 #additions to name that are a bit tricky
 ##Shen Qingqiu
@@ -7,18 +8,18 @@ jiu|Jiǔ
 #peak lord OCs first syllable gets replaced with Qīng
 ##Lin Zhushui 林逐水 feng shui master - My Five Elements Lack You https://www.novelupdates.com/series/my-five-elements-lack-you/
 lin zhushui|Lín zhú shuǐ
-lin qingshui|Lín Qīngshuǐ
+lin qingshui|Lín Qīngshuǐ|https://github.com/blue-dreaming/AO3-Tone-Marks-GUT/blob/main/audio/11-Lin-Qingshui.mp3
 ##Duan Jiaze 段佳泽 beast master - Those Years I Opened A Zoo https://www.novelupdates.com/series/those-years-i-opened-a-zoo/
-duan jiaze|Duàn Jiāzé
-duan qingze|Duàn Qīngzé
-##Ruan Tang 阮棠 brewing master - The Film Emperor's Daily Live Cooking Broadcast https://www.novelupdates.com/series/the-film-emperors-daily-live-cooking-broadcast/ - Zui Xian Peak - Brewing, elixirs, spiritual foo
+duan jiaze|Duàn Jiāzé|https://github.com/blue-dreaming/AO3-Tone-Marks-GUT/blob/main/audio/15-Duan-Jiaze.mp3
+duan qingze|Duàn Qīngzé|https://github.com/blue-dreaming/AO3-Tone-Marks-GUT/blob/main/audio/14-Duan-Qingze.mp3
+##Ruan Tang 阮棠 brewing master - The Film Emperor's Daily Live Cooking Broadcast https://www.novelupdates.com/series/the-film-emperors-daily-live-cooking-broadcast/ - Zui Xian Peak - Brewing, elixirs, spiritual food
 ruan tang|Ruǎn Táng
-ruan qingruan|Ruǎn Qīngruǎn
+ruan qingruan|Ruǎn Qīngruǎn|https://github.com/blue-dreaming/AO3-Tone-Marks-GUT/blob/main/audio/17-Ruan-Qingruan.mp3
 ##Gāo Qīnggāo 清高 talisman master - aloof from politics and material pursuits - Ku Xing Peak
-gao qinggao|Gāo Qīnggāo
+gao qinggao|Gāo Qīnggāo|https://github.com/blue-dreaming/AO3-Tone-Marks-GUT/blob/main/audio/19-Gao-Qinggao.mp3
 gao shidi|Gāo-Shīdì|https://archive.org/download/general-pronunciation-gudie/shidi.mp3
 ##Xú Qīnglì artificing master
-xu qingli|Xú Qīnglì
+xu qingli|Xú Qīnglì|https://github.com/blue-dreaming/AO3-Tone-Marks-GUT/blob/main/audio/21-Xu-Qingli.mp3
 
 #peak lords - the 'An' generation - 安 Ān an meaning peace, quiet
 ##Yan Anming - Qiong Ding Peak - Head disciple Yue Qingyuan
@@ -37,11 +38,11 @@ fang anrong|Fāng Ānróng
 
 #original peak names
 ##Zhī Jǐ Peak - led by Lín Qīngshuǐ - Feng shui, divination. from the idiom 知己知彼 zhī jǐ zhī bǐ know yourself, know your enemy
-zhi ji|Zhī Jǐ
+zhi ji|Zhī Jǐ|https://github.com/blue-dreaming/AO3-Tone-Marks-GUT/blob/main/audio/10-Zhi-Ji-peak.mp3
 ##Líng Yòu Peak - led by Duàn Qīngzé - Beast taming
-ling you|Líng Yòu
+ling you|Líng Yòu|https://github.com/blue-dreaming/AO3-Tone-Marks-GUT/blob/main/audio/13-Ling-You-peak.mp3
 ##Chuàng Zào Peak 創造 - led by Xú Qīnglì - Artifact Refining
-chuang zao|Chuàng Zào
+chuang zao|Chuàng Zào|https://github.com/blue-dreaming/AO3-Tone-Marks-GUT/blob/main/audio/20-Chuang-Zao-peak.mp3
 
 #other OCs - with reference
 ##Mǎ Shūqíng - Qing Jing hallmaster
