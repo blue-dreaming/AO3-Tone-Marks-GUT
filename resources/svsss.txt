@@ -1,4 +1,5 @@
 #Qing Jing Peak Characters (+ Swords)
+
 ##Shen Qingiu (both versions)
 shen qing qiu|Shěn Qīngqiū|https://archive.org/download/svsss-pronunciation-guide/Shen%20Qingqiu.mp3
 sqq|Shěn Qīngqiū|https://archive.org/download/svsss-pronunciation-guide/Shen%20Qingqiu.mp3
@@ -10,6 +11,7 @@ shen jiu|Shěn Jiǔ|https://archive.org/download/svsss-pronunciation-guide/Shen%
 shen|Shěn
 xiao jiu|Xiǎo-Jiǔ
 xiu ya|Xiū Yǎ|https://archive.org/download/svsss-pronunciation-guide/Xiu%20Ya.mp3
+
 ## Luo Binghe
 luo bing he|Luò Bīnghé|https://archive.org/download/svsss-pronunciation-guide/Luo%20Binghe.mp3
 lbh|Luò Bīnghé|https://archive.org/download/svsss-pronunciation-guide/Luo%20Binghe.mp3
@@ -21,21 +23,27 @@ bing he|Bīnghé
 bing ge|Bīnggē
 bing mei|Bīngmèi
 luo shidi|Luò-shīdì|https://archive.org/download/general-pronunciation-gudie/shidi.mp3
+
 xin mo|Xīn Mó
 zheng yang|Zhèng Yáng
+
 ##Ning Yingying
 ning ying ying|Níng Yīngyīng|https://archive.org/download/svsss-pronunciation-guide/Ning%20Yingying.mp3
 nyy|Níng Yīngyīng|https://archive.org/download/svsss-pronunciation-guide/Ning%20Yingying.mp3
+
 ##Ming Fan
 ming fan|Míng Fān|https://archive.org/download/svsss-pronunciation-guide/Ming%20Fan.mp3
 mf|Míng Fān|https://archive.org/download/svsss-pronunciation-guide/Ming%20Fan.mp3
+
 # The rest of Cang Qiong Mountain Sect
+
 ##Liu Qingge
 liu qing ge|Liǔ Qīnggē|https://archive.org/download/svsss-pronunciation-guide/Liu%20Qingge.mp3
 lqg|Liǔ Qīnggē|https://archive.org/download/svsss-pronunciation-guide/Liu%20Qingge.mp3
 qing ge|Qīnggē
 liu shidi|Liǔ-shīdì|https://archive.org/download/general-pronunciation-gudie/shidi.mp3
 cheng luan|Chéng Luán
+
 ##Yue Qingyuan
 yue qing yuan|Yuè Qīngyuán|https://archive.org/download/svsss-pronunciation-guide/Yue%20Qingyuan.mp3
 yqy|Yuè Qīngyuán|https://archive.org/download/svsss-pronunciation-guide/Yue%20Qingyuan.mp3
@@ -43,21 +51,25 @@ yue qi|Yuè Qī
 qi ge|Qī-gē
 yue shixiong|Yuè-shīxiōng
 xuan su|Xuán Sù
+
 ##Shang Qinghua
 shang qinghua|Shàng Qīnghuá|https://archive.org/download/svsss-pronunciation-guide/Shang%20Qinghua.mp3
 qing hua|Qīnghuá
 sqh|Shàng Qīnghuá|https://archive.org/download/svsss-pronunciation-guide/Shang%20Qinghua.mp3
 Shang shidi|Shàng-shīdì|https://archive.org/download/general-pronunciation-gudie/shidi.mp3
+
 ##Qi Qingqi
-qi qing qi|Qí Qīngqī
-qqq|Qí Qīngqī
+qi qing qi|Qí Qīngqī|https://github.com/blue-dreaming/AO3-Tone-Marks-GUT/blob/main/audio/07-Qi-Qingqi.mp3
+qqq|Qí Qīngqī|https://github.com/blue-dreaming/AO3-Tone-Marks-GUT/blob/main/audio/07-Qi-Qingqi.mp3
 qi shijie|Qí-shījiě
+
 ##Liu Mingyan
 liu ming yan|Liǔ Míngyān|https://archive.org/download/svsss-pronunciation-guide/Liu%20Mingyan.mp3
 lmy|Liǔ Míngyān|https://archive.org/download/svsss-pronunciation-guide/Liu%20Mingyan.mp3
 liu su mian hua|Liǔ Sù Mián Huā
 liu|Liǔ
 ming yan|Míngyān
+
 ##Mu Qingfang
 mu qing fang|Mù Qīngfāng|https://archive.org/download/svsss-pronunciation-guide/Mu%20Qingfang.mp3
 mqf|Mù Qīngfāng|https://archive.org/download/svsss-pronunciation-guide/Mu%20Qingfang.mp3
@@ -65,13 +77,17 @@ qing fang|Qīngfāng
 mu shidi|Mù-shīdì|https://archive.org/download/general-pronunciation-gudie/shidi.mp3
 mu shixiong|Mù-Shīxiōng
 mu shishu|Mù-Shīshū|https://archive.org/download/general-pronunciation-gudie/shishu.mp3
+
 ##Yang Yixuan
 yang yi xuan|Yáng Yīxuán
 yyx|Yáng Yīxuán
+
 ##Wei Qingwei
-wei qing wei|Wèi Qīngwēi
+wei qing wei|Wèi Qīngwēi|https://github.com/blue-dreaming/AO3-Tone-Marks-GUT/blob/main/audio/04-Wei-Qingwei.mp3
 wei shidi|Wèi-shīdì|https://archive.org/download/general-pronunciation-gudie/shidi.mp3
+
 #Huan Hua Palace
+
 ##Old Palace Master
 lao gong zhu|Lǎo Gōngzhǔ
 ##Little Palace Mistress
@@ -86,7 +102,9 @@ gyx|Gōngyí Xiāo|https://archive.org/download/svsss-pronunciation-guide/Gongyi
 qin wan yue|Qín Wǎnyuē
 ##Qing Wanrong
 qin wan rong|Qín Wǎnróng
+
 #Demons
+
 ##Mobei-jun
 mo bei jun|Mòběi-jūn|https://archive.org/download/svsss-pronunciation-guide/Mobei%20Jun.mp3
 mbj|Mòběi-jūn|https://archive.org/download/svsss-pronunciation-guide/Mobei%20Jun.mp3
@@ -108,37 +126,45 @@ jiuzhong jun|Jiǔchóng Jūn
 Meng Mo|Mèng Mó
 ##Madam Meiyin
 mei yin|Mèiyīn 
+
 #Sects and Places
+
 ##CQM Sect
 cang qiong|Cāngqióng
-qiong ding|Qióng Dǐng
-qing jing|Qīng Jìng
-xian shu|Xiān Shū 
-an ding|Ān Dìng
-qian cao|Qiān Cǎo
-bai zhan|Bǎi Zhàn
-zui xian|Zuì Xiān
-wan jian|Wàn Jiàn
-ku xing|Kǔ Xíng
+qiong ding|Qióng Dǐng|https://github.com/blue-dreaming/AO3-Tone-Marks-GUT/blob/main/audio/01-Qiong-Ding-Peak.mp3
+qing jing|Qīng Jìng|https://github.com/blue-dreaming/AO3-Tone-Marks-GUT/blob/main/audio/02-Qing-Jing-Peak.mp3
+xian shu|Xiān Shū|https://github.com/blue-dreaming/AO3-Tone-Marks-GUT/blob/main/audio/06-Xian-Shu-Peak.mp3
+an ding|Ān Dìng|https://github.com/blue-dreaming/AO3-Tone-Marks-GUT/blob/main/audio/05-An-Ding-Peak.mp3
+qian cao|Qiān Cǎo|https://github.com/blue-dreaming/AO3-Tone-Marks-GUT/blob/main/audio/09-Qian-Cao-Peak.mp3
+bai zhan|Bǎi Zhàn|https://github.com/blue-dreaming/AO3-Tone-Marks-GUT/blob/main/audio/08-Bai-Zhan-peak.mp3
+zui xian|Zuì Xiān|https://github.com/blue-dreaming/AO3-Tone-Marks-GUT/blob/main/audio/16-Zui-Xian-Peak.mp3
+wan jian|Wàn Jiàn|https://github.com/blue-dreaming/AO3-Tone-Marks-GUT/blob/main/audio/03-Wan-Jian-Peak.mp3
+ku xing|Kǔ Xíng|https://github.com/blue-dreaming/AO3-Tone-Marks-GUT/blob/main/audio/18-Ku-Xing%20peak.mp3
+
 ##Huan Hua
 huan hua|Huàn Huā
 bai lu|Bái Lù
+
 ##Other sects
 zhao hua|Zhāo Huá
 tian yi|Tiān yī
+
 ##Qiu (秋) household and family
 qiu jian luo|Qiū Jiǎnluó
 young master qiu|Young Master Qiū
 qiu hai tang|Qiū Hǎitáng
 qiu household|Qiū household
+
 ##Other places
 jin lan|Jīn Lán
 hua yue|Huā Yuè
 jue di|Jué Dì
 ##Shuang Hu City 双湖 Shuāng Hú a small city that falls within the territory of Cang Qiong Mountain sect
 Shuang Hu|Shuāng Hú
+
 #Misc People
 wu yan zi|Wú Yànzǐ
+
 #Misc Other
 chun shan|Chūnshān
 da wang|Dàwáng
