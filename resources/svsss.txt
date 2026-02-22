@@ -59,8 +59,8 @@ sqh|Shàng Qīnghuá|https://archive.org/download/svsss-pronunciation-guide/Shan
 Shang shidi|Shàng-shīdì|https://archive.org/download/general-pronunciation-gudie/shidi.mp3
 
 ##Qi Qingqi
-qi qing qi|Qí Qīngqī|https://github.com/blue-dreaming/AO3-Tone-Marks-GUT/blob/main/audio/07-Qi-Qingqi.mp3
-qqq|Qí Qīngqī|https://github.com/blue-dreaming/AO3-Tone-Marks-GUT/blob/main/audio/07-Qi-Qingqi.mp3
+qi qing qi|Qí Qīngqī|https://blue-dreaming.github.io/AO3-Tone-Marks-GUT/audio/07-Qi-Qingqi.mp3
+qqq|Qí Qīngqī|https://blue-dreaming.github.io/AO3-Tone-Marks-GUT/audio/07-Qi-Qingqi.mp3
 qi shijie|Qí-shījiě
 
 ##Liu Mingyan
@@ -83,7 +83,7 @@ yang yi xuan|Yáng Yīxuán
 yyx|Yáng Yīxuán
 
 ##Wei Qingwei
-wei qing wei|Wèi Qīngwēi|https://github.com/blue-dreaming/AO3-Tone-Marks-GUT/blob/main/audio/04-Wei-Qingwei.mp3
+wei qing wei|Wèi Qīngwēi|https://blue-dreaming.github.io/AO3-Tone-Marks-GUT/audio/04-Wei-Qingwei.mp3
 wei shidi|Wèi-shīdì|https://archive.org/download/general-pronunciation-gudie/shidi.mp3
 
 #Huan Hua Palace
@@ -131,15 +131,15 @@ mei yin|Mèiyīn
 
 ##CQM Sect
 cang qiong|Cāngqióng
-qiong ding|Qióng Dǐng|https://github.com/blue-dreaming/AO3-Tone-Marks-GUT/blob/main/audio/01-Qiong-Ding-Peak.mp3
-qing jing|Qīng Jìng|https://github.com/blue-dreaming/AO3-Tone-Marks-GUT/blob/main/audio/02-Qing-Jing-Peak.mp3
-xian shu|Xiān Shū|https://github.com/blue-dreaming/AO3-Tone-Marks-GUT/blob/main/audio/06-Xian-Shu-Peak.mp3
-an ding|Ān Dìng|https://github.com/blue-dreaming/AO3-Tone-Marks-GUT/blob/main/audio/05-An-Ding-Peak.mp3
-qian cao|Qiān Cǎo|https://github.com/blue-dreaming/AO3-Tone-Marks-GUT/blob/main/audio/09-Qian-Cao-Peak.mp3
-bai zhan|Bǎi Zhàn|https://github.com/blue-dreaming/AO3-Tone-Marks-GUT/blob/main/audio/08-Bai-Zhan-peak.mp3
-zui xian|Zuì Xiān|https://github.com/blue-dreaming/AO3-Tone-Marks-GUT/blob/main/audio/16-Zui-Xian-Peak.mp3
-wan jian|Wàn Jiàn|https://github.com/blue-dreaming/AO3-Tone-Marks-GUT/blob/main/audio/03-Wan-Jian-Peak.mp3
-ku xing|Kǔ Xíng|https://github.com/blue-dreaming/AO3-Tone-Marks-GUT/blob/main/audio/18-Ku-Xing%20peak.mp3
+qiong ding|Qióng Dǐng|https://blue-dreaming.github.io/AO3-Tone-Marks-GUT/audio/01-Qiong-Ding-Peak.mp3
+qing jing|Qīng Jìng|https://blue-dreaming.github.io/AO3-Tone-Marks-GUT/audio/02-Qing-Jing-Peak.mp3
+xian shu|Xiān Shū|https://blue-dreaming.github.io/AO3-Tone-Marks-GUT/audio/06-Xian-Shu-Peak.mp3
+an ding|Ān Dìng|https://blue-dreaming.github.io/AO3-Tone-Marks-GUT/audio/05-An-Ding-Peak.mp3
+qian cao|Qiān Cǎo|https://blue-dreaming.github.io/AO3-Tone-Marks-GUT/audio/09-Qian-Cao-Peak.mp3
+bai zhan|Bǎi Zhàn|https://blue-dreaming.github.io/AO3-Tone-Marks-GUT/audio/08-Bai-Zhan-peak.mp3
+zui xian|Zuì Xiān|https://blue-dreaming.github.io/AO3-Tone-Marks-GUT/audio/16-Zui-Xian-Peak.mp3
+wan jian|Wàn Jiàn|https://blue-dreaming.github.io/AO3-Tone-Marks-GUT/audio/03-Wan-Jian-Peak.mp3
+ku xing|Kǔ Xíng|https://blue-dreaming.github.io/AO3-Tone-Marks-GUT/audio/18-Ku-Xing%20peak.mp3
 
 ##Huan Hua
 huan hua|Huàn Huā
